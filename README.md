@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Wei Jie Lam, I am an aspiring Python developer passionate about building full stack web applications!
+
 - 🔭 I’m currently working on
   - [rate-my-spotify](https://github.com/weijielam/rate-my-spotify): Flask/React Web Application that allows users to import their Spotify library and rate their catalogue
   - [near-earth-objects](https://github.com/weijielam/near-earth-objects): Python CLI tool to search for and explore close approaches of near-Earth objects (NEOs), using data from NASA/JPL
