@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Wei Jie Lam, I am an aspiring Python developer passionate about building full stack web applications!
+My name is Wei Jie Lam, I am an aspiring Python developer passionate about building web applications!
 
 - 🔭 I’m currently working on
   - [rate-my-spotify](https://github.com/weijielam/rate-my-spotify): Flask/React Web Application that allows users to import their Spotify library and rate their catalogue
