@@ -7,6 +7,8 @@ My name is Wei Jie Lam, I am an aspiring Python developer passionate about build
 - 🌱 I’m currently learning Python and React
 - 📫 How to reach me: [weijielam@gmail.com](mailto:weijielam@gmail.com) | [linkedin.com/in/wei-jie-lam](https://www.linkedin.com/in/wei-jie-lam)
 
+You can view my resume [here](https://weijielam.github.io/resume)
+
 <!--
 **weijielam/weijielam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
