@@ -1,7 +1,4 @@
-### Hi there 👋
-My name is Wei Jie Lam, I am an aspiring developer, trying to write clean code all the time. You can see some of my projects below! 
-
-- 📫 How to reach me: [weijielam@gmail.com](mailto:weijielam@gmail.com) | [linkedin.com/in/wei-jie-lam](https://www.linkedin.com/in/wei-jie-lam)
+📫 How to reach me: [weijielam@gmail.com](mailto:weijielam@gmail.com) | [linkedin.com/in/wei-jie-lam](https://www.linkedin.com/in/wei-jie-lam)
 
 
 <!--
